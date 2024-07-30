@@ -1,3 +1,5 @@
+//TO DO implement test cases
+
 //Test Case 1:
 
 let playerOneCards1 = [5, 1, 13, 10, 11, 3, 2, 10, 4, 12, 5, 11, 10, 5, 7, 6, 6, 11, 9, 6, 3, 13, 6, 1, 8, 1] 
